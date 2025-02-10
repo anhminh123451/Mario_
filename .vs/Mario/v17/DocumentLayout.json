@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\thuchanh\\Mario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|d:\\thuchanh\\mario\\assets\\script\\bigcharector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bigcharector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|D:\\thuchanh\\Mario\\assets\\script\\smallcharector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\smallcharector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|D:\\thuchanh\\Mario\\assets\\script\\charectorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7257B17B-F6B0-5A16-4330-CA5C56772F85}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charectorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BigCharector.cs",
+              "DocumentMoniker": "D:\\thuchanh\\Mario\\Assets\\Script\\BigCharector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BigCharector.cs",
+              "ToolTip": "D:\\thuchanh\\Mario\\Assets\\Script\\BigCharector.cs",
+              "RelativeToolTip": "Assets\\Script\\BigCharector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:37:15.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmallCharector.cs",
+              "DocumentMoniker": "D:\\thuchanh\\Mario\\Assets\\Script\\SmallCharector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SmallCharector.cs",
+              "ToolTip": "D:\\thuchanh\\Mario\\Assets\\Script\\SmallCharector.cs",
+              "RelativeToolTip": "Assets\\Script\\SmallCharector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:35:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharectorBase.cs",
+              "DocumentMoniker": "D:\\thuchanh\\Mario\\Assets\\Script\\CharectorBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharectorBase.cs",
+              "ToolTip": "D:\\thuchanh\\Mario\\Assets\\Script\\CharectorBase.cs",
+              "RelativeToolTip": "Assets\\Script\\CharectorBase.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:35:20.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
